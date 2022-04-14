@@ -1,0 +1,1 @@
+very_secret_resource = 'ssshhhhhh....'
