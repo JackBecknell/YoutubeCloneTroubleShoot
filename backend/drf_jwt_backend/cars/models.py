@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 # Create your models here.
 
 # <<<<<<<<<<<<<<<<< EXAMPLE FOR STARTER CODE USE <<<<<<<<<<<<<<<<<
-jack = "string"
+jack = "string (this is a change)"
 tessa = 1
 cash = True
 jj = ["list item at index 0", "list item at index 1"]
